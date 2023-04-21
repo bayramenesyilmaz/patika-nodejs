@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bayramenesyilmaz/patika-nodejs/issues"
   },
-  "homepage": "https://github.com/bayramenesyilmaz/patika-nodejs#readme"
+  "homepage": "https://github.com/bayramenesyilmaz/patika-nodejs#readme",
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
 }
